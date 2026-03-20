@@ -1,0 +1,19 @@
+{
+  "name": "ai-summary-tool",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^4.13.15",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "openai": "^6.32.0"
+  }
+}
